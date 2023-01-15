@@ -5,3 +5,4 @@
  */
 
 #define SNIFFER_OUTPUT "./Sniffer.txt"
+int x;
